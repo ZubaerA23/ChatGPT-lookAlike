@@ -1,4 +1,4 @@
 # ChatGPT-lookAlike
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-lt3vnt)
+Deployment Link: https://stackblitz-starters-lt3vnt.stackblitz.io/
 Warning - This is just a lookalike, there is not additional functionality.

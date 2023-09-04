@@ -112,6 +112,7 @@ span{
 
 .left{
   height: 42em;
+  
 }
 
 .right button{
@@ -133,7 +134,8 @@ span{
   }
 
   .left h1{
-    margin-top: 7em;
+    font-size: 35px;
+    margin-top:7.5em ; 
   }
 
   .right button{
@@ -143,7 +145,7 @@ span{
   }
 
   .right h1{
-    margin-top: 5em;
+    margin-top: 9em;
     margin-left: 2em;
     
   }

@@ -99,3 +99,49 @@ span{
 .button_one{
   margin-right: 20px;
 }
+
+
+
+/* Styles for screens smaller than 768px (typical mobile screens) */
+@media (max-width: 768px) {
+  /* Your responsive styles here */
+.left h1{
+  font-size: 25px;
+  
+}
+
+.left{
+  height: 200em;
+}
+
+.right button{
+  margin-left: 6em;
+}
+
+.right h1{
+  font-size: 25px
+}
+}
+
+/* Styles for screens larger than 768px (typical desktop screens) */
+@media (min-width: 769px) {
+  /* Your responsive styles here */
+  .left{
+    
+    height: 200em;
+  }
+
+  .left h1{
+    margin-top: 7em;
+  }
+
+  .right button{
+    margin-left: 6em;
+
+  }
+
+  .right h1{
+    margin-top: 5em;
+    
+  }
+}

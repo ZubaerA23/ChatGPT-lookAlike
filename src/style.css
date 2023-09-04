@@ -111,11 +111,11 @@ span{
 }
 
 .left{
-  height: 200em;
+  height: 40em;
 }
 
 .right button{
-  margin-left: 6em;
+  margin-left: 3em;
 }
 
 .right h1{
@@ -128,7 +128,7 @@ span{
   /* Your responsive styles here */
   .left{
     
-    height: 10.1em;
+    height: 50em;
   }
 
   .left h1{
